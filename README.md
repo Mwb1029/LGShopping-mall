@@ -1,2 +1,2 @@
 # LGShopping-mall
-来购商城web项目
+来购商城webApp项目
